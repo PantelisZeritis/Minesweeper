@@ -1,0 +1,7 @@
+# Αγνοούμε εκτελέσιμα αρχεία (Linux)
+*.out
+*.o
+Minesweeper
+
+# Αγνοούμε Windows metadata
+*:Zone.Identifier
